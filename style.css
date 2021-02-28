@@ -1,5 +1,8 @@
 /* CSS Reference from W3School: https://www.w3schools.com/cssref/ */
 
+ <link href="css/styles.css" rel="stylesheet">
+</head>
+
 /* Example Variables */
 :root {
 	/* Fonts */
