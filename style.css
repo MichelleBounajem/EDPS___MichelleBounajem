@@ -1,6 +1,5 @@
-output:
-  html_document:
-    css:
-    - org.css
-    - custom.css
-
+https://fonts.googleapis.com/css?family=Muli:400,400i,700&display=swap
+body {
+    font-family: 'Muli';
+    font-size: 19px;
+}
