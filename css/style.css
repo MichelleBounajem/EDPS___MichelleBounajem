@@ -24,8 +24,3 @@ button {
   font-family: var(--primary-font);
 }
 
-body,
-p {
-  color: #404040;
-  color: var(--black);
-}
