@@ -12,11 +12,20 @@ div#
   --primary-font: 'Playfair Display', serif;
   --secondary-font: 'Josefin Sans', sans-serif;
 
+}
 
 
+/* ===== Materialize Overrides ===== */
+body,
+p,
+a,
+button {
+  font-family: 'Playfair Display', serif; /* IE fallback */
+  font-family: var(--primary-font);
+}
 
-  margin: 1px;
-    padding: 5px;
-
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
+body,
+p {
+  color: #404040;
+  color: var(--black);
+}
