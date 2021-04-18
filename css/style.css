@@ -46,3 +46,21 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
 }
 
+<!DOCTYPE html>
+<title>Example</title>
+<style>
+body {
+    background: url('/pix/samples/bg2.png') beige;
+    color: rgba(0, 0, 0, 1);
+    font-size: 2em;
+ }
+article { 
+    background-color: rgba(30, 255, 50, 0.5);
+    border: 5px solid olive;
+    margin: 20px;
+    text-align: center;
+    }
+</style>
+<article>
+<h1>Stars</h1>
+</article>
